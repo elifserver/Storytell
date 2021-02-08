@@ -17,4 +17,5 @@
 <p>● Locators usage - finding dynamic lacotor values 
 <p>&nbsp;</p> 
 
-<b>APK for checking the framework:<b>
+<h3><Note</b></h3>
+<b>APK</b> can be found on the root of the repo
