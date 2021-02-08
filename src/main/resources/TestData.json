@@ -1,0 +1,18 @@
+{
+  "newUserTriesToLikeABook": {
+    "swipeCount": 3,
+    "country": "Iceland",
+    "language": "Icelandic",
+    "bookSection": "Feelgood",
+    "bookIndexToSelect": 7,
+    "searchWord": "Harry",
+    "bookName": "The Adventures of Harry Stevenson",
+    "filter": "Ebook",
+    "warning": "Oops! It seems you've filtered a bit too much."
+  },
+
+  "pageHeaders": {
+    "countryPage": "Your countr"
+  }
+}
+
